@@ -1,6 +1,6 @@
 <p align="center"><a href="http://xcoderz.web.app">
 <img title="The X Coder" src="https://raw.githubusercontent.com/thexcoderz/thexcoderz/main/banner.jpg" alt="The X Coder"/>
-</a><</p>
+</a></p>
 
  - 👋 Hi, I’m @thexcoderz
  - 👀 I’m interested in Everything related to Technology
