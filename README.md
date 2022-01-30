@@ -10,6 +10,9 @@
 ### Know More About Me >>
 <p align="center"><a href="https://github.com/thexcoderz"><img title="X Coder" src="https://github-readme-stats.vercel.app/api?username=thexcoderz&show_icons=true&include_all_commits=true&theme=radical&cache_seconds=3200"></a>
 </p>
+<p align="center">
+<a href="https://github.com/thexcoderz"><img title="X Coder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexcoderz&layout=compact"></a>
+</p>
 
 
 <!---
