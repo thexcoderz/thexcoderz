@@ -14,6 +14,7 @@
 <a href="https://github.com/thexcoderz"><img title="X Coder" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thexcoderz&layout=compact"></a>
 </p>
 
+### Follow me on >>
 
 <!---
 thexcoderz/thexcoderz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
