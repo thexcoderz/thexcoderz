@@ -4,7 +4,7 @@
 
  - 👋 Hi, I’m @thexcoderz
  - 👀 I’m interested in Everything related to Technology
- - 📖 I’m currently learning Next JS
+ - 📖 I’m currently learning Nothing.
  - 📫 How to reach me thexcoder.official@gmail.com
 
 ### Know More About Me >>
